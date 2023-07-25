@@ -3,3 +3,5 @@ hello.txt
 /**/*.txt
 
 !hello.txt
+[0-9]*.c
+!123.c
